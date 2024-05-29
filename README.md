@@ -56,8 +56,8 @@ Atividades realizadas durante o Curso de Analista de Dados na EBAC.
 - [x] 1º Projeto: Análise Exploratória de Dados em Python I
 - [X] 1º Projeto: Análise Exploratória de Dados em Python II
 - [X] Controle de Versão I
-- [ ] Controle de Versão II
-- [ ] Controle de Versão III
+- [X] Controle de Versão II
+- [X] Controle de Versão III
 - [ ] Fundamentos de Matemática
 - [ ] Fundamentos de Estatística
 - [ ] Aprendizado de Máquina - Fundamentos
