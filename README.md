@@ -58,9 +58,9 @@ Atividades realizadas durante o Curso de Analista de Dados na EBAC.
 - [X] Controle de Versão I
 - [X] Controle de Versão II
 - [X] Controle de Versão III
-- [ ] Fundamentos de Matemática
-- [ ] Fundamentos de Estatística
-- [ ] Aprendizado de Máquina - Fundamentos
+- [X] Fundamentos de Matemática
+- [X] Fundamentos de Estatística
+- [X] Aprendizado de Máquina - Fundamentos
 - [ ] Aprendizado de Máquina - Regressão
 - [ ] Aprendizado de Máquina - Classificação
 - [ ] Aprendizado de Máquina - Agrupamento
