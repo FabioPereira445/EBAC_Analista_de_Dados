@@ -61,18 +61,18 @@ Atividades realizadas durante o Curso de Analista de Dados na EBAC.
 - [X] Fundamentos de Matemática
 - [X] Fundamentos de Estatística
 - [X] Aprendizado de Máquina - Fundamentos
-- [ ] Aprendizado de Máquina - Regressão
-- [ ] Aprendizado de Máquina - Classificação
-- [ ] Aprendizado de Máquina - Agrupamento
-- [ ] Séries Temporais
-- [ ] SQL: Base de dados & Linguagem SQL
-- [ ] SQL: Trabalhando com Tabelas
-- [ ] Selecionando & Ordenando
-- [ ] SQL: Filtrando & Seleção Condicional
-- [ ] SQL: Agregações
-- [ ] SQL: Trabalhando com Múltiplas Tabelas
-- [ ] SQL: Técnicas Avançadas
-- [ ] Projeto Final
+- [X] Aprendizado de Máquina - Regressão
+- [X] Aprendizado de Máquina - Classificação
+- [X] Aprendizado de Máquina - Agrupamento
+- [X] Séries Temporais
+- [X] SQL: Base de dados & Linguagem SQL
+- [X] SQL: Trabalhando com Tabelas
+- [X] Selecionando & Ordenando
+- [X] SQL: Filtrando & Seleção Condicional
+- [X] SQL: Agregações
+- [X] SQL: Trabalhando com Múltiplas Tabelas
+- [X] SQL: Técnicas Avançadas
+- [X] Projeto Final
 - [ ] Visualização interativa de dados
 - [ ] 3º Projeto: Dashboard de dados
 - [ ] Computação em Nuvem I
